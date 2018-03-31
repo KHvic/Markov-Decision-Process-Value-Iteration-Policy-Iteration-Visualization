@@ -4,7 +4,7 @@ A implemention of Value Iteration and Policy Iteration (Gaussian elimination & I
 
 ### About Grid World
 
-![Alt text](images/Maze.png?raw=true)
+![](images/Maze.png?raw=true)
 
 Each of the non-wall squares is defined as a non-terminal state. Green, Brown, White squares has a
 reward value of 1, -1, -0.04 respectively.
@@ -20,7 +20,7 @@ compute the MDP.
 
 ### How to change the maze environment
 
-![Alt text](images/Program.png?raw=true)
+<img src="images/Program.PNG?raw=true" width="500"/>
 
 - Click on square to change its state
 
@@ -28,17 +28,16 @@ compute the MDP.
 
 ### Usage
 
-Click on 'Value Iteration' or 'Policy Iteration', the program will generate a plotted graph visualization in a new window.
+- Click on 'Value Iteration' or 'Policy Iteration', the program will generate a plotted graph visualization in a new window.
 
-![Alt text](images/Value_Iteration.png?raw=true)
-![Alt text](images/Policy_Iteration.png?raw=true)
+<img src="images/Value Iteration.png?raw=true" width="350"/> <img src="images/Policy_Iteration.PNG?raw=true" width="350"/>
 
 (We can note that Policy iteration is more efficient as it takes less iteration)
 
-Click on 'Display Utility' or 'Display Policy' to switch between displayed information.
+- Click on 'Display Utility' or 'Display Policy' to switch between displayed information.
 
-![Alt text](images/Utility.png?raw=true)
-![Alt text](images/Program.png?raw=true)
+<img src="images/Utility.PNG?raw=true" width="350"/> <img src="images/Program.PNG?raw=true" width="350"/>
+
 
 ### Prerequisites 
 - jfreechart (included) - https://github.com/jfree/jfreechart
@@ -55,14 +54,16 @@ A compiled Java executable file is included.
 4. Select root directory (Browse to unzipped folder)
 5. Finish 
 
-#### Execution (Eclipse)
+#### Execution (Eclipse)
+
 
 1. Right click on project
 2. Run As 
 3. Java Application 
 4. Main (default package) 
-5. OK 
+5. OK 
+
 
 ### Reference
 
-- Michael Wooldridge (2009), an introduction to MultiAgent Systems (pp. 645-657). John Wiley&Sons
+- Michael Wooldridge (2009), an introduction to MultiAgent Systems (pp. 645-657). John Wiley&Sons
