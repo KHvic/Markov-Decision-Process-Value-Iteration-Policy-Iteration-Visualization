@@ -30,13 +30,13 @@ compute the MDP.
 
 - Click on 'Value Iteration' or 'Policy Iteration', the program will generate a plotted graph visualization in a new window.
 
-<img src="images/Value Iteration.png?raw=true" width="350"/> <img src="images/Policy_Iteration.PNG?raw=true" width="350"/>
+<img src="images/Value Iteration.png?raw=true" width="400"/> <img src="images/Policy_Iteration.PNG?raw=true" width="400"/>
 
 (We can note that Policy iteration is more efficient as it takes less iteration)
 
 - Click on 'Display Utility' or 'Display Policy' to switch between displayed information.
 
-<img src="images/Utility.PNG?raw=true" width="350"/> <img src="images/Program.PNG?raw=true" width="350"/>
+<img src="images/Utility.PNG?raw=true" width="400"/> <img src="images/Program.PNG?raw=true" width="400"/>
 
 
 ### Prerequisites 
