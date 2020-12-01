@@ -1,6 +1,6 @@
 # Grid World - Markov Decision Process Solver
 
-A implemention of Value Iteration and Policy Iteration (Gaussian elimination & Iterated Bellman update) along with graphical representation of estimated utility.
+Implemention of Value Iteration and Policy Iteration (Gaussian elimination & Iterated Bellman update) along with graphical representation of estimated utility.
 
 ### About Grid World
 
